@@ -11445,8 +11445,8 @@ p.lead {
 
 .imagen-brand {
   border-radius: 0.2em;
-  width: 2.5em;
-  height: 2.5em;
+  width: 2.1em;
+  height: 2.1em;
   margin-right: 0.7em;
   margin-left: -0.1em;
 }
@@ -11456,13 +11456,13 @@ p.lead {
   font-weight: 500;
   font-size: 1.3em;
   opacity: 0.9;
-  margin-top: .2em !important;
+  margin-top: .1em !important;
   position: absolute;
 }
 .navbar-toggler1 {
   background-color: transparent;
-  height: 3.1em;
-  width: 3.1em;
+  height: 2.7em;
+  width: 2.9em;
   font-size: 1em;
   border-radius: 0.3em;
   border-style: solid;
